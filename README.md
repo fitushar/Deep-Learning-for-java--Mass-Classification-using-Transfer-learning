@@ -24,7 +24,4 @@ train images
 ![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/Slide10.PNG)
 ![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/Slide22.PNG)
 ![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/34258685_1687057948082173_8254190607560343552_n.png)
-![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/Slide1
-25.PNG)
-![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/Slide27.PNG)
 ![Test Image 8](https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Images/Slide28.PNG)
